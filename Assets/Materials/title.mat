@@ -10,7 +10,7 @@ Material:
   m_Name: title
   m_Shader: {fileID: -6465566751694194690, guid: 1063168c9a0a7a2459b8ca5bdcd3ee5c,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
